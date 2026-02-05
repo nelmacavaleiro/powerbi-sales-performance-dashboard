@@ -40,7 +40,7 @@ The report includes:
 
 # Preview
 
-![Dashboard Preview](Sales Performance Dashboard.png)
+![Dashboard Preview](Sales-Performance-Dashboard.png)
 
 # Notes
 
