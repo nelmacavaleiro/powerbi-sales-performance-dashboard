@@ -39,7 +39,6 @@ The report includes:
 
 - **Sales Performance Dashboard.pbix** – Power BI report file  
 - **Sales Performance Raw Data.xlsx** – Source dataset  
-- **Sales Performance Dashboard.pdf** – Static export of the dashboard  
 - **Sales Performance Dashboard.png** – Dashboard preview image  
 
 # Notes
