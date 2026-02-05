@@ -4,6 +4,10 @@ This project presents an interactive **Power BI sales performance dashboard** an
 
 The dashboard was built to demonstrate **data modelling, DAX fundamentals, visual design, and business insight generation** using a clean, business-focused reporting layout.
 
+# Preview
+
+![Dashboard Preview](Sales-Performance-Dashboard.png)
+
 # Key Insights
 
 - **The United Kingdom and France are the most profitable markets**, contributing the largest share of overall profit.
@@ -37,10 +41,6 @@ The report includes:
 - **Sales Performance Raw Data.xlsx** – Source dataset  
 - **Sales Performance Dashboard.pdf** – Static export of the dashboard  
 - **Sales Performance Dashboard.png** – Dashboard preview image  
-
-# Preview
-
-![Dashboard Preview](Sales-Performance-Dashboard.png)
 
 # Notes
 
