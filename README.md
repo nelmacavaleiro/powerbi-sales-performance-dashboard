@@ -45,9 +45,12 @@ The report includes:
 
 This dashboard was created as part of a professional portfolio project and uses a sample dataset for demonstration purposes.
 
-# Author
+## Author
+
 **Nelma Cavaleiro**  
-Project Management | Data Analytics | MSc Information Systems Management
+Project Management | Data Analytics | MSc Information Systems Management  
+
 GitHub: https://github.com/nelmacavaleiro  
-LinkedIn: www.linkedin.com/in/nelma-cavaleiro
+LinkedIn: https://www.linkedin.com/in/nelma-cavaleiro
+
 
