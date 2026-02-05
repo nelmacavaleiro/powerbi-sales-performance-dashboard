@@ -47,7 +47,7 @@ This dashboard was created as part of a professional portfolio project and uses 
 
 # Author
 **Nelma Cavaleiro**  
-Data Analytics & Project Management  
+Project Management | Data Analytics | MSc Information Systems Management
 GitHub: https://github.com/nelmacavaleiro  
 LinkedIn: www.linkedin.com/in/nelma-cavaleiro
 
