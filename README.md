@@ -6,7 +6,7 @@ The dashboard was built to demonstrate **data modelling, DAX fundamentals, visua
 
 # Preview
 
-
+![Dashboard Preview](Sales-Performance-Dashboard.png)
 
 # Key Insights
 
